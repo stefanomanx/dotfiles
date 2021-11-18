@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = stefano232@gmail.com
+	name = Stefano Mandolesi
